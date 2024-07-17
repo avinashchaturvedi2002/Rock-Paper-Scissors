@@ -28,3 +28,8 @@ This project helps you practice:
 * This is a foundation to build more complex interactive games using Javascript.
 
 **Enjoy playing and learning Javascript!**
+![Screenshot 2024-07-17 150917](https://github.com/user-attachments/assets/72326f60-65ad-41a7-824a-b7cac3db5249)
+![Screenshot 2024-07-17 150906](https://github.com/user-attachments/assets/a642a23f-2b68-4557-82ce-efd165a3ea3b)
+![Screenshot 2024-07-17 150850](https://github.com/user-attachments/assets/decdcd2f-72c3-41b9-bf6c-70c86d484a7f)
+
+
